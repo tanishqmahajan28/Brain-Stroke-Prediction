@@ -12,3 +12,8 @@ The dataset used for this project includes medical records with features such as
 - **Model Training and Evaluation**: Applying Decision Tree, Random Forest, and Gradient Boosting classifiers.
 - **Hyperparameter Tuning**: Using grid search to find the best hyperparameters for the models.
 - **Model Evaluation**: Assessing model performance using accuracy scores and confusion matrices.
+
+## Installation
+To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following command:
+```bash
+pip install -r requirements.txt
