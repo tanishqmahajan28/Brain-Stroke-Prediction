@@ -14,7 +14,7 @@ The dataset used for this project includes medical records with features such as
 - **Model Evaluation**: Assessing model performance using accuracy scores and confusion matrices.
 
 ## Who Will Find This Project Useful?
-This dashboard can be used by:
+This project can be used by:
 - **Healthcare Providers:** Can utilize the model to predict stroke risk in patients, allowing for early diagnosis and preventive care.
 - **Researchers:** Can explore the predictive capabilities of machine learning models in healthcare, particularly in stroke prediction.
 - **Data Scientists:** Can study the implementation and optimization of machine learning algorithms for real-world health data analysis.
