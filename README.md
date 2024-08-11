@@ -13,7 +13,12 @@ The dataset used for this project includes medical records with features such as
 - **Hyperparameter Tuning**: Using grid search to find the best hyperparameters for the models.
 - **Model Evaluation**: Assessing model performance using accuracy scores and confusion matrices.
 
-## Installation
-To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using the following command:
-```bash
-pip install -r requirements.txt
+## Who Will Find This Project Useful?
+This dashboard can be used by:
+- **Healthcare Providers:** Can utilize the model to predict stroke risk in patients, allowing for early diagnosis and preventive care.
+- **Researchers:** Can explore the predictive capabilities of machine learning models in healthcare, particularly in stroke prediction.
+- **Data Scientists:** Can study the implementation and optimization of machine learning algorithms for real-world health data analysis.
+
+## Contact
+
+For any queries or suggestions, please contact Tanishq Mahajan at trmahajan28@gmail.com.
